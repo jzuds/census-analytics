@@ -1,0 +1,942 @@
+[
+    {
+      "variable": "GEO_ID",
+      "calc_info": "Geography"
+    },
+    {
+      "variable": "NAME",
+      "calc_info": "Geographic Area Name"
+    },
+    {
+      "variable": "S2901_C01_001E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C01_001EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C01_001M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C01_001MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C01_002E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C01_002EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C01_002M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C01_002MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C01_003E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C01_003EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C01_003M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C01_003MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C01_004E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C01_004EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C01_004M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C01_004MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C01_005E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C01_005EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C01_005M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C01_005MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C01_006E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C01_006EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C01_006M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C01_006MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C01_007E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C01_007EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C01_007M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C01_007MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C01_008E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C01_008EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C01_008M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C01_008MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C01_009E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C01_009EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C01_009M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C01_009MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C01_010E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C01_010EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C01_010M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C01_010MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C01_011E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C01_011EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C01_011M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C01_011MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C01_012E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C01_012EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C01_012M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C01_012MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C01_013E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C01_013EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C01_013M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C01_013MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C01_014E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C01_014EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C01_014M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C01_014MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C01_015E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_015EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_015M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_015MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_016E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_016EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_016M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_016MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C01_017E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C01_017EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C01_017M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C01_017MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C01_018E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C01_018EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C01_018M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C01_018MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C01_019E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C01_019EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C01_019M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C01_019MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C01_020E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C01_020EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C01_020M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C01_020MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C01_021E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C01_021EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C01_021M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C01_021MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C01_022E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C01_022EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C01_022M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C01_022MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C01_023E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C01_023EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C01_023M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C01_023MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C01_024E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C01_024EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C01_024M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C01_024MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C01_025E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C01_025EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C01_025M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C01_025MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C01_026E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C01_026EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C01_026M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C01_026MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C01_027E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C01_027EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C01_027M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C01_027MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C01_028E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C01_028EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C01_028M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C01_028MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C01_029E",
+      "calc_info": "Estimate!!Total!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C01_029EA",
+      "calc_info": "Annotation of Estimate!!Total!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C01_029M",
+      "calc_info": "Margin of Error!!Total!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C01_029MA",
+      "calc_info": "Annotation of Margin of Error!!Total!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C02_001E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C02_001EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C02_001M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C02_001MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over"
+    },
+    {
+      "variable": "S2901_C02_002E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C02_002EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C02_002M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C02_002MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!18 to 29 years"
+    },
+    {
+      "variable": "S2901_C02_003E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C02_003EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C02_003M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C02_003MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!30 to 44 years"
+    },
+    {
+      "variable": "S2901_C02_004E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C02_004EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C02_004M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C02_004MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!45 to 64 years"
+    },
+    {
+      "variable": "S2901_C02_005E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C02_005EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C02_005M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C02_005MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!AGE!!65 years and over"
+    },
+    {
+      "variable": "S2901_C02_006E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C02_006EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C02_006M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C02_006MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!SEX!!Male"
+    },
+    {
+      "variable": "S2901_C02_007E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C02_007EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C02_007M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C02_007MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!SEX!!Female"
+    },
+    {
+      "variable": "S2901_C02_008E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C02_008EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C02_008M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C02_008MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone"
+    },
+    {
+      "variable": "S2901_C02_009E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C02_009EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C02_009M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C02_009MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Black or African American alone"
+    },
+    {
+      "variable": "S2901_C02_010E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C02_010EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C02_010M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C02_010MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Asian alone"
+    },
+    {
+      "variable": "S2901_C02_011E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C02_011EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C02_011M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C02_011MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!American Indian and Alaska Native alone"
+    },
+    {
+      "variable": "S2901_C02_012E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C02_012EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C02_012M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C02_012MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Native Hawaiian and Other Pacific Islander alone"
+    },
+    {
+      "variable": "S2901_C02_013E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C02_013EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C02_013M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C02_013MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Some Other Race alone"
+    },
+    {
+      "variable": "S2901_C02_014E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C02_014EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C02_014M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C02_014MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Two or More Races"
+    },
+    {
+      "variable": "S2901_C02_015E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_015EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_015M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_015MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_016E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_016EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_016M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_016MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!RACE AND HISPANIC ORIGIN!!White alone, Not Hispanic or Latino"
+    },
+    {
+      "variable": "S2901_C02_017E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C02_017EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C02_017M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C02_017MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Less than 9th grade"
+    },
+    {
+      "variable": "S2901_C02_018E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C02_018EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C02_018M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C02_018MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma"
+    },
+    {
+      "variable": "S2901_C02_019E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C02_019EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C02_019M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C02_019MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency)"
+    },
+    {
+      "variable": "S2901_C02_020E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C02_020EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C02_020M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C02_020MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Some college, no degree"
+    },
+    {
+      "variable": "S2901_C02_021E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C02_021EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C02_021M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C02_021MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Associate's degree"
+    },
+    {
+      "variable": "S2901_C02_022E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C02_022EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C02_022M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C02_022MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree"
+    },
+    {
+      "variable": "S2901_C02_023E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C02_023EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C02_023M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C02_023MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree"
+    },
+    {
+      "variable": "S2901_C02_024E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C02_024EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C02_024M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C02_024MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!High school degree or higher"
+    },
+    {
+      "variable": "S2901_C02_025E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C02_025EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C02_025M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C02_025MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!EDUCATIONAL ATTAINMENT!!Bachelor's degree or higher"
+    },
+    {
+      "variable": "S2901_C02_026E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C02_026EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C02_026M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C02_026MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Total Citizens, 18 years and older, for whom poverty status is determined"
+    },
+    {
+      "variable": "S2901_C02_027E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C02_027EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C02_027M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C02_027MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months below poverty level"
+    },
+    {
+      "variable": "S2901_C02_028E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C02_028EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C02_028M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C02_028MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!POVERTY STATUS!!Income in the past 12 months at or above the poverty level"
+    },
+    {
+      "variable": "S2901_C02_029E",
+      "calc_info": "Estimate!!Percent!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C02_029EA",
+      "calc_info": "Annotation of Estimate!!Percent!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C02_029M",
+      "calc_info": "Margin of Error!!Percent!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "S2901_C02_029MA",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    },
+    {
+      "variable": "ucgid",
+      "calc_info": "Annotation of Margin of Error!!Percent!!Citizens 18 years and over!!HOUSEHOLD INCOME (IN 2023 INFLATION-ADJUSTED DOLLARS)!!Median Household Income for Households with a Citizen, Voting-Age Householder"
+    }
+  ]
