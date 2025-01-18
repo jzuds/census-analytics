@@ -26,11 +26,21 @@ def get_census_data():
     census_data_resp = requests.get(url)
     census_data_json = census_data_resp.json()
     census_df = pd.DataFrame(census_data_json).transpose()
-    census_df.columns = ["variable", "value"]
+    census_df.columns = ["Variable", "Value"]
     variable_to_name_lookups = get_census_variable_mapping()
-    census_df['display_name'] = census_df['variable'].map(variable_to_name_lookups)
+    census_df['display_name'] = census_df['Variable'].map(variable_to_name_lookups)
+    #census_df["display_name"].str.split('!!', n=0, expand=False)
+    column_info = pd.Series(census_df["display_name"].str.split('!!', n=None, expand=False), index=census_df.index)
+    census_df["Name"] = column_info.str[0]
+    census_df["Type"] = column_info.str[1]
+    census_df["Demographic"] = column_info.str[2]
+    census_df.drop("display_name", axis=1, inplace=True)
+
+    # Reordering columns using loc
+    census_df = census_df.loc[:, ['Variable', 'Name', 'Type', 'Demographic', 'Value']]
     return census_df
 
+@st.cache_data
 def get_census_meta_data():
     url = "https://api.census.gov/data/2023/acs/acs1/subject"
     census_meta_data_resp = requests.get(url)
@@ -39,6 +49,7 @@ def get_census_meta_data():
 
 @st.cache_data
 def get_census_variable_mapping():
+    # url = "https://api.census.gov/data/2023/acs/acs1/subject/groups/S2901" TODO: use this mapping instead of static
     with open("data/acs-acs1-subject-groups-s2901.json", "r") as f:
         content = json.loads(f.read())
     
@@ -46,11 +57,14 @@ def get_census_variable_mapping():
     for element in content:
         mapping[element["variable"]] = element["calc_info"]
     return mapping
-    # url = "https://api.census.gov/data/2023/acs/acs1/subject/groups/S2901.html"
-    # census_meta_data_resp = requests.get(url)
-    # html_string = census_meta_data_resp.text
-    # output_json = html_to_json.convert(html_string)
-    # return output_json
 
+def render_dropdown(name: str, dropdown_options:pd.DataFrame):
+    st.selectbox(label=name, options=dropdown_options)
+
+##################################################
+## Main
+##################################################
+
+data = get_census_data()
 st.text(get_census_meta_data())
-st.table(get_census_data())
+st.table(data)
